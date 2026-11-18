@@ -8,6 +8,17 @@ Customer churn is an important business problem for telecommunications companies
 
 This project uses customer demographic, account, service and billing information to estimate churn probability.
 
+## Application Screenshots
+
+### Customer Churn Dashboard
+![Customer Churn Dashboard](screenshots/dashboard.png)
+
+### Prediction Result
+![Prediction Result](screenshots/Prediction_result.png)
+
+### Feature Importance
+![Feature Importance](screenshots/Feature_importance.png)
+
 ## Objectives
 
 - Explore and understand telecom customer data.
